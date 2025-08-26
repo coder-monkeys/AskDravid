@@ -1,0 +1,938 @@
+[
+  {
+    "id": "c1",
+    "text": "I love future bread.",
+    "start": 0.24,
+    "end": 3.9189999999999996
+  },
+  {
+    "id": "c2",
+    "text": "Yeah, I love the future bread.",
+    "start": 1.199,
+    "end": 5.52
+  },
+  {
+    "id": "c3",
+    "text": "There's something that we haven't told",
+    "start": 3.919,
+    "end": 8.08
+  },
+  {
+    "id": "c4",
+    "text": "all of you for the last 5 years.",
+    "start": 5.52,
+    "end": 9.2
+  },
+  {
+    "id": "c5",
+    "text": "Yes.",
+    "start": 8.08,
+    "end": 11.84
+  },
+  {
+    "id": "c6",
+    "text": "And we've decided now is the time to",
+    "start": 9.2,
+    "end": 12.959999999999999
+  },
+  {
+    "id": "c7",
+    "text": "share with all of you.",
+    "start": 11.84,
+    "end": 14.799
+  },
+  {
+    "id": "c8",
+    "text": "And to be fair, I think some of you have",
+    "start": 12.96,
+    "end": 17.119
+  },
+  {
+    "id": "c9",
+    "text": "already figured this out by now. We",
+    "start": 14.799,
+    "end": 19.68
+  },
+  {
+    "id": "c10",
+    "text": "needed to say it officially.",
+    "start": 17.119,
+    "end": 20.0
+  },
+  {
+    "id": "c11",
+    "text": "Yes.",
+    "start": 19.68,
+    "end": 23.519
+  },
+  {
+    "id": "c12",
+    "text": "Um, you know, we owe it to you guys to",
+    "start": 20.0,
+    "end": 26.4
+  },
+  {
+    "id": "c13",
+    "text": "um let you know personally.",
+    "start": 23.519,
+    "end": 28.08
+  },
+  {
+    "id": "c14",
+    "text": "Yeah.",
+    "start": 26.4,
+    "end": 29.358999999999998
+  },
+  {
+    "id": "c15",
+    "text": "The secret that we've been hiding from",
+    "start": 28.08,
+    "end": 31.679
+  },
+  {
+    "id": "c16",
+    "text": "all of you for the last 5 years is that",
+    "start": 29.359,
+    "end": 36.760000000000005
+  },
+  {
+    "id": "c17",
+    "text": "we have been living in Singapore.",
+    "start": 31.679,
+    "end": 36.76
+  },
+  {
+    "id": "c18",
+    "text": "That's it. All right, video's done. I",
+    "start": 39.04,
+    "end": 43.2
+  },
+  {
+    "id": "c19",
+    "text": "don't know why we never thought about",
+    "start": 41.84,
+    "end": 44.800000000000004
+  },
+  {
+    "id": "c20",
+    "text": "making announcement. I just I think we",
+    "start": 43.2,
+    "end": 46.719
+  },
+  {
+    "id": "c21",
+    "text": "just always thought like ah nobody",
+    "start": 44.8,
+    "end": 47.68
+  },
+  {
+    "id": "c22",
+    "text": "really cares.",
+    "start": 46.719,
+    "end": 50.160000000000004
+  },
+  {
+    "id": "c23",
+    "text": "Every now and then we still like",
+    "start": 47.68,
+    "end": 51.6
+  },
+  {
+    "id": "c24",
+    "text": "we're always still running into like you",
+    "start": 50.16,
+    "end": 54.239
+  },
+  {
+    "id": "c25",
+    "text": "guys fans, right? And I feel like",
+    "start": 51.6,
+    "end": 56.480000000000004
+  },
+  {
+    "id": "c26",
+    "text": "there's still a percentage of people",
+    "start": 54.239,
+    "end": 58.8
+  },
+  {
+    "id": "c27",
+    "text": "that are like, \"What are you doing in",
+    "start": 56.48,
+    "end": 60.398999999999994
+  },
+  {
+    "id": "c28",
+    "text": "Singapore?\" Or if we're overseas,",
+    "start": 58.8,
+    "end": 62.64
+  },
+  {
+    "id": "c29",
+    "text": "they're like, \"Oh my god.\" Like they go",
+    "start": 60.399,
+    "end": 64.0
+  },
+  {
+    "id": "c30",
+    "text": "like from Australia like",
+    "start": 62.64,
+    "end": 66.72
+  },
+  {
+    "id": "c31",
+    "text": "Yeah. It's like 99 99% of you I'd say",
+    "start": 64.0,
+    "end": 68.64
+  },
+  {
+    "id": "c32",
+    "text": "still like, \"Wo, we see people even in",
+    "start": 66.72,
+    "end": 70.72
+  },
+  {
+    "id": "c33",
+    "text": "Singapore. Two setters in Singapore.\"",
+    "start": 68.64,
+    "end": 72.64
+  },
+  {
+    "id": "c34",
+    "text": "You're like, \"Oh, enjoy Singapore.\" I'm",
+    "start": 70.72,
+    "end": 73.52
+  },
+  {
+    "id": "c35",
+    "text": "like,",
+    "start": 72.64,
+    "end": 75.2
+  },
+  {
+    "id": "c36",
+    "text": "\"Yes.\"",
+    "start": 73.52,
+    "end": 77.6
+  },
+  {
+    "id": "c37",
+    "text": "Okay. Yeah. And to prove to you guys",
+    "start": 75.2,
+    "end": 79.2
+  },
+  {
+    "id": "c38",
+    "text": "that we live in Singapore, cuz I can",
+    "start": 77.6,
+    "end": 81.119
+  },
+  {
+    "id": "c39",
+    "text": "also imagine people will be like, \"Prove",
+    "start": 79.2,
+    "end": 83.36
+  },
+  {
+    "id": "c40",
+    "text": "it.\" I guess it's cuz we still we still",
+    "start": 81.119,
+    "end": 84.799
+  },
+  {
+    "id": "c41",
+    "text": "have our Aussie accents, right?",
+    "start": 83.36,
+    "end": 86.799
+  },
+  {
+    "id": "c42",
+    "text": "Some people think we live in the United",
+    "start": 84.799,
+    "end": 88.4
+  },
+  {
+    "id": "c43",
+    "text": "States,",
+    "start": 86.799,
+    "end": 88.799
+  },
+  {
+    "id": "c44",
+    "text": "you know.",
+    "start": 88.4,
+    "end": 90.0
+  },
+  {
+    "id": "c45",
+    "text": "Yeah. Where did that even come from?",
+    "start": 88.799,
+    "end": 91.2
+  },
+  {
+    "id": "c46",
+    "text": "I don't I think it's maybe because it's",
+    "start": 90.0,
+    "end": 93.84
+  },
+  {
+    "id": "c47",
+    "text": "a content creator thing where",
+    "start": 91.2,
+    "end": 95.92
+  },
+  {
+    "id": "c48",
+    "text": "anyone that gets one viral video moves",
+    "start": 93.84,
+    "end": 98.799
+  },
+  {
+    "id": "c49",
+    "text": "to LA right that's kind of the trend",
+    "start": 95.92,
+    "end": 100.479
+  },
+  {
+    "id": "c50",
+    "text": "right now to prove to you guys that we",
+    "start": 98.799,
+    "end": 101.68
+  },
+  {
+    "id": "c51",
+    "text": "live in Singapore. So we're going to",
+    "start": 100.479,
+    "end": 104.0
+  },
+  {
+    "id": "c52",
+    "text": "name some suburbs, some of the food",
+    "start": 101.68,
+    "end": 106.32000000000001
+  },
+  {
+    "id": "c53",
+    "text": "dishes and then what else should we do?",
+    "start": 104.0,
+    "end": 108.72
+  },
+  {
+    "id": "c54",
+    "text": "I know Singapura.",
+    "start": 106.32,
+    "end": 112.63999999999999
+  },
+  {
+    "id": "c55",
+    "text": "There you go. Proof given. Uh, those who",
+    "start": 108.72,
+    "end": 118.119
+  },
+  {
+    "id": "c56",
+    "text": "wish to learn the violin must have that.",
+    "start": 112.64,
+    "end": 118.119
+  },
+  {
+    "id": "c57",
+    "text": "That's like such a subtle.",
+    "start": 118.399,
+    "end": 121.04
+  },
+  {
+    "id": "c58",
+    "text": "I I don't think anyone watching that",
+    "start": 119.68,
+    "end": 122.07900000000001
+  },
+  {
+    "id": "c59",
+    "text": "will get it except if you're",
+    "start": 121.04,
+    "end": 123.759
+  },
+  {
+    "id": "c60",
+    "text": "Singaporean.",
+    "start": 122.079,
+    "end": 124.39899999999999
+  },
+  {
+    "id": "c61",
+    "text": "Stop losers.",
+    "start": 123.759,
+    "end": 127.92
+  },
+  {
+    "id": "c62",
+    "text": "Okay, I'll start with Orchard",
+    "start": 124.399,
+    "end": 130.34
+  },
+  {
+    "id": "c63",
+    "text": "Marina Bayujong.",
+    "start": 127.92,
+    "end": 132.64000000000001
+  },
+  {
+    "id": "c64",
+    "text": "[Music]",
+    "start": 130.34,
+    "end": 134.72
+  },
+  {
+    "id": "c65",
+    "text": "That",
+    "start": 132.64,
+    "end": 138.2
+  },
+  {
+    "id": "c66",
+    "text": "Yeah, that's it.",
+    "start": 134.72,
+    "end": 138.2
+  },
+  {
+    "id": "c67",
+    "text": "Holland",
+    "start": 140.8,
+    "end": 144.64000000000001
+  },
+  {
+    "id": "c68",
+    "text": "village.",
+    "start": 143.36,
+    "end": 146.4
+  },
+  {
+    "id": "c69",
+    "text": "Paridis.",
+    "start": 144.64,
+    "end": 147.599
+  },
+  {
+    "id": "c70",
+    "text": "Where the heck is that?",
+    "start": 146.4,
+    "end": 149.76000000000002
+  },
+  {
+    "id": "c71",
+    "text": "I don't know why I said P is like",
+    "start": 147.599,
+    "end": 150.39999999999998
+  },
+  {
+    "id": "c72",
+    "text": "northeast.",
+    "start": 149.76,
+    "end": 151.92
+  },
+  {
+    "id": "c73",
+    "text": "Oh, really?",
+    "start": 150.4,
+    "end": 153.44
+  },
+  {
+    "id": "c74",
+    "text": "Oh, if we're going up there then. What's",
+    "start": 151.92,
+    "end": 154.95899999999997
+  },
+  {
+    "id": "c75",
+    "text": "that place? Yish.",
+    "start": 153.44,
+    "end": 157.04
+  },
+  {
+    "id": "c76",
+    "text": "Oh, yeah. Woodlands.",
+    "start": 154.959,
+    "end": 158.48
+  },
+  {
+    "id": "c77",
+    "text": "Only 5 seconds. You got",
+    "start": 157.04,
+    "end": 159.84
+  },
+  {
+    "id": "c78",
+    "text": "happiness.",
+    "start": 158.48,
+    "end": 162.16
+  },
+  {
+    "id": "c79",
+    "text": "I think I butchered it. Bedo,",
+    "start": 159.84,
+    "end": 163.12
+  },
+  {
+    "id": "c80",
+    "text": "Sigla,",
+    "start": 162.16,
+    "end": 164.64
+  },
+  {
+    "id": "c81",
+    "text": "Kong,",
+    "start": 163.12,
+    "end": 166.0
+  },
+  {
+    "id": "c82",
+    "text": "Gilang,",
+    "start": 164.64,
+    "end": 168.39999999999998
+  },
+  {
+    "id": "c83",
+    "text": "Jirong East,",
+    "start": 166.0,
+    "end": 169.36
+  },
+  {
+    "id": "c84",
+    "text": "Jirong West.",
+    "start": 168.4,
+    "end": 171.92000000000002
+  },
+  {
+    "id": "c85",
+    "text": "Oh, what the heck? Really? Oh, that's",
+    "start": 169.36,
+    "end": 173.519
+  },
+  {
+    "id": "c86",
+    "text": "there's a J.",
+    "start": 171.92,
+    "end": 175.51899999999998
+  },
+  {
+    "id": "c87",
+    "text": "Uh",
+    "start": 173.519,
+    "end": 179.0
+  },
+  {
+    "id": "c88",
+    "text": "uh. Pungo.",
+    "start": 175.519,
+    "end": 179.0
+  },
+  {
+    "id": "c89",
+    "text": "I feel like you're just making stuff.",
+    "start": 180.56,
+    "end": 185.599
+  },
+  {
+    "id": "c90",
+    "text": "What is that?",
+    "start": 184.319,
+    "end": 186.79999999999998
+  },
+  {
+    "id": "c91",
+    "text": "No.",
+    "start": 185.599,
+    "end": 190.44
+  },
+  {
+    "id": "c92",
+    "text": "area. Oh, that's another",
+    "start": 186.8,
+    "end": 190.44
+  },
+  {
+    "id": "c93",
+    "text": "What the hell,",
+    "start": 190.879,
+    "end": 193.599
+  },
+  {
+    "id": "c94",
+    "text": "guys? I don't know what to say like",
+    "start": 192.4,
+    "end": 195.20000000000002
+  },
+  {
+    "id": "c95",
+    "text": "this. I don't know how to pronounce",
+    "start": 193.599,
+    "end": 195.599
+  },
+  {
+    "id": "c96",
+    "text": "these.",
+    "start": 195.2,
+    "end": 198.599
+  },
+  {
+    "id": "c97",
+    "text": "Queenstown.",
+    "start": 195.599,
+    "end": 198.599
+  },
+  {
+    "id": "c98",
+    "text": "I'm out.",
+    "start": 202.959,
+    "end": 209.2
+  },
+  {
+    "id": "c99",
+    "text": "And uh the the national animal is",
+    "start": 205.84,
+    "end": 212.72
+  },
+  {
+    "id": "c100",
+    "text": "chicken rice.",
+    "start": 209.2,
+    "end": 214.72
+  },
+  {
+    "id": "c101",
+    "text": "What is the national animal? Isn't the",
+    "start": 212.72,
+    "end": 217.84
+  },
+  {
+    "id": "c102",
+    "text": "lion melo?",
+    "start": 214.72,
+    "end": 219.2
+  },
+  {
+    "id": "c103",
+    "text": "How do you say it? Meloy.",
+    "start": 217.84,
+    "end": 220.799
+  },
+  {
+    "id": "c104",
+    "text": "Something about the name Singapore has",
+    "start": 219.2,
+    "end": 222.159
+  },
+  {
+    "id": "c105",
+    "text": "something to do with the lion because",
+    "start": 220.799,
+    "end": 225.04000000000002
+  },
+  {
+    "id": "c106",
+    "text": "some prince came here and thought he saw",
+    "start": 222.159,
+    "end": 226.64
+  },
+  {
+    "id": "c107",
+    "text": "a lion.",
+    "start": 225.04,
+    "end": 228.959
+  },
+  {
+    "id": "c108",
+    "text": "We know our Singapore facts",
+    "start": 226.64,
+    "end": 230.95899999999997
+  },
+  {
+    "id": "c109",
+    "text": "very very well.",
+    "start": 228.959,
+    "end": 232.56
+  },
+  {
+    "id": "c110",
+    "text": "Exactly.",
+    "start": 230.959,
+    "end": 234.4
+  },
+  {
+    "id": "c111",
+    "text": "We even made a Remember the ABC",
+    "start": 232.56,
+    "end": 236.799
+  },
+  {
+    "id": "c112",
+    "text": "documentary, The Australian Story? They",
+    "start": 234.4,
+    "end": 238.48000000000002
+  },
+  {
+    "id": "c113",
+    "text": "even said we live in Singapore.",
+    "start": 236.799,
+    "end": 239.68
+  },
+  {
+    "id": "c114",
+    "text": "Yeah. We're very lucky.",
+    "start": 238.48,
+    "end": 240.0
+  },
+  {
+    "id": "c115",
+    "text": "Yeah.",
+    "start": 239.68,
+    "end": 243.0
+  },
+  {
+    "id": "c116",
+    "text": "Yeah.",
+    "start": 240.0,
+    "end": 243.0
+  },
+  {
+    "id": "c117",
+    "text": "We also know our American facts, so",
+    "start": 244.72,
+    "end": 250.159
+  },
+  {
+    "id": "c118",
+    "text": "please give us an easel.",
+    "start": 247.439,
+    "end": 251.2
+  },
+  {
+    "id": "c119",
+    "text": "I don't know when this video is coming",
+    "start": 250.159,
+    "end": 252.72
+  },
+  {
+    "id": "c120",
+    "text": "out. Maybe we won't put it out.",
+    "start": 251.2,
+    "end": 255.11999999999998
+  },
+  {
+    "id": "c121",
+    "text": "Oh yeah, we forgot. Why are we in",
+    "start": 252.72,
+    "end": 256.079
+  },
+  {
+    "id": "c122",
+    "text": "Singapore?",
+    "start": 255.12,
+    "end": 257.6
+  },
+  {
+    "id": "c123",
+    "text": "Yeah, we finished recording. I was like,",
+    "start": 256.079,
+    "end": 259.68
+  },
+  {
+    "id": "c124",
+    "text": "hold on. We didn't even explain why.",
+    "start": 257.6,
+    "end": 262.639
+  },
+  {
+    "id": "c125",
+    "text": "So, we actually came to Singapore just 1",
+    "start": 259.68,
+    "end": 264.32
+  },
+  {
+    "id": "c126",
+    "text": "month before CO happened.",
+    "start": 262.639,
+    "end": 265.84000000000003
+  },
+  {
+    "id": "c127",
+    "text": "Oh man, it was brutal.",
+    "start": 264.32,
+    "end": 267.199
+  },
+  {
+    "id": "c128",
+    "text": "The reason we moved to Singapore is also",
+    "start": 265.84,
+    "end": 268.88
+  },
+  {
+    "id": "c129",
+    "text": "traveling. It's just so much.",
+    "start": 267.199,
+    "end": 271.04
+  },
+  {
+    "id": "c130",
+    "text": "I remember our first So, I just got",
+    "start": 268.88,
+    "end": 271.759
+  },
+  {
+    "id": "c131",
+    "text": "Yeah. Yeah,",
+    "start": 271.04,
+    "end": 274.639
+  },
+  {
+    "id": "c132",
+    "text": "our first world tour, we flew away from",
+    "start": 271.759,
+    "end": 275.68
+  },
+  {
+    "id": "c133",
+    "text": "Australia",
+    "start": 274.639,
+    "end": 280.0
+  },
+  {
+    "id": "c134",
+    "text": "and there's like an extra 8 to 10 hours",
+    "start": 275.68,
+    "end": 282.639
+  },
+  {
+    "id": "c135",
+    "text": "packed on to every travel.",
+    "start": 280.0,
+    "end": 284.56
+  },
+  {
+    "id": "c136",
+    "text": "And then I was like, I understand why",
+    "start": 282.639,
+    "end": 286.08
+  },
+  {
+    "id": "c137",
+    "text": "most of the solists never come to",
+    "start": 284.56,
+    "end": 287.04
+  },
+  {
+    "id": "c138",
+    "text": "Australia now.",
+    "start": 286.08,
+    "end": 288.639
+  },
+  {
+    "id": "c139",
+    "text": "It's so far,",
+    "start": 287.04,
+    "end": 291.12
+  },
+  {
+    "id": "c140",
+    "text": "way too fast. So, we're, you know, we're",
+    "start": 288.639,
+    "end": 294.479
+  },
+  {
+    "id": "c141",
+    "text": "just thinking about like where",
+    "start": 291.12,
+    "end": 297.28000000000003
+  },
+  {
+    "id": "c142",
+    "text": "where could we go and we're looking at",
+    "start": 294.479,
+    "end": 299.03999999999996
+  },
+  {
+    "id": "c143",
+    "text": "different places and I think Singapore",
+    "start": 297.28,
+    "end": 301.44
+  },
+  {
+    "id": "c144",
+    "text": "is great cuz they can speak English, you",
+    "start": 299.04,
+    "end": 303.28000000000003
+  },
+  {
+    "id": "c145",
+    "text": "know,",
+    "start": 301.44,
+    "end": 306.96
+  },
+  {
+    "id": "c146",
+    "text": "um, you know, like um, Chinese. We can",
+    "start": 303.28,
+    "end": 308.55999999999995
+  },
+  {
+    "id": "c147",
+    "text": "speak Chinese, but it's not we're not",
+    "start": 306.96,
+    "end": 309.919
+  },
+  {
+    "id": "c148",
+    "text": "like that super fluent.",
+    "start": 308.56,
+    "end": 312.0
+  },
+  {
+    "id": "c149",
+    "text": "Yeah. Yeah. We And also, we also",
+    "start": 309.919,
+    "end": 313.919
+  },
+  {
+    "id": "c150",
+    "text": "considered New York.",
+    "start": 312.0,
+    "end": 315.6
+  },
+  {
+    "id": "c151",
+    "text": "Actually, we never shared this, but we",
+    "start": 313.919,
+    "end": 316.639
+  },
+  {
+    "id": "c152",
+    "text": "actually considered New York, but New",
+    "start": 315.6,
+    "end": 318.8
+  },
+  {
+    "id": "c153",
+    "text": "York was just too far. That's a short",
+    "start": 316.639,
+    "end": 320.24
+  },
+  {
+    "id": "c154",
+    "text": "episode. I don't know why we felt like",
+    "start": 318.8,
+    "end": 321.6
+  },
+  {
+    "id": "c155",
+    "text": "we want to share this with all of you,",
+    "start": 320.24,
+    "end": 324.96000000000004
+  },
+  {
+    "id": "c156",
+    "text": "but as always, you should be practicing.",
+    "start": 321.6,
+    "end": 324.96000000000004
+  }
+]
