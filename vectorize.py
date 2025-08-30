@@ -1,11 +1,14 @@
 from transformers import AutoTokenizer
+
+from preprocessing import clean_transcript
 from vectorize_utils import load_transcript, chunk_transcript, embed_chunks, create_faiss_index, query_index
 
 
 def main():
     # Load transcript
-    transcript = load_transcript("transcript.json")
+    raw_transcript = load_transcript("transcript.json")
 
+    transcript = clean_transcript(raw_transcript)
     # Initialize tokenizer
     tokenizer = AutoTokenizer.from_pretrained("sentence-transformers/all-MiniLM-L6-v2")
 
